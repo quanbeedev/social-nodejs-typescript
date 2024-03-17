@@ -3,6 +3,7 @@ import { NextFunction, Request, Response } from "express";
 import { DataStoredInToken } from "@core/interfaces";
 import { Logger } from "@core/utils";
 import jwt from 'jsonwebtoken';
+import { HttpException } from "@core/exceptions";
 
 const authMiddleWare = ( req: Request, res: Response, next: NextFunction) =>{
     const token = req.header('x-auth-token');
@@ -16,8 +17,8 @@ const authMiddleWare = ( req: Request, res: Response, next: NextFunction) =>{
 
         req.user.id = user.id
         next()
-    } catch (error) {
-        Logger.error(`[ERROR] message: ${token}`);
+    } catch (error: any) {
+        Logger.error(`[ERROR] message: ${error.message}`);
 
         if( error.name === 'TokenExpriedError'){
             res.status(401).json({message: "Token was exprired"});

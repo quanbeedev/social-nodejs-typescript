@@ -5,6 +5,9 @@ import mongoose from 'mongoose';
 import Route from '@core/interfaces/routes.interface';
 import YAML from 'yamljs';
 import swaggerUi from 'swagger-ui-express';
+import morgan from 'morgan'
+import cors from 'cors'
+import { errorMiddleWare } from '@core/middleware';
 
 
 class App {
@@ -28,8 +31,10 @@ class App {
         this.port = process.env.PORT || 15000;
 
         this.connectToDatabase();
+        this.initializeMiddleWare();
         this.initializeRoutes(routes);
         this.initializeSwagger();
+        this.initializeErrorMiddleware();
 
     }
 
@@ -44,7 +49,20 @@ class App {
         routes.forEach((route) => {
           this.app.use('/', route.router);
         });
-      }
+    }
+
+    private initializeMiddleWare(){
+      this.app.use(morgan('dev'));
+      this.app.use(cors({ origin: true, credentials: true}));
+
+      this.app.use(express.json());
+      this.app.use(express.urlencoded({ extended: true}));
+
+    }
+
+    private initializeErrorMiddleware() {
+      this.app.use(errorMiddleWare);
+    }
 
     private connectToDatabase(){
 

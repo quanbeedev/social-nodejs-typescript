@@ -1,0 +1,40 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+      "@typescript-eslint"
+    ],
+    "extends": [
+      "eslint:recommended",
+      "plugin:@typescript-eslint/eslint-recommended",
+      "plugin:@typescript-eslint/recommended",
+      // "plugin:@shopify/esnext"
+    ],
+    "rules": {
+      "no-console": "error"
+    }
+  }
+
+/*The provided configuration snippet is a part of an ESLint configuration file (typically named .eslintrc.json) 
+and is used to configure ESLint for linting TypeScript code. Let's break down each option:
+
+"root": true: This option indicates that ESLint should stop looking for configuration files in parent directories once it finds this configuration file. 
+It ensures that this configuration file is considered the root configuration for ESLint.
+
+"parser": "@typescript-eslint/parser": This option specifies the parser to be used for TypeScript code. 
+The @typescript-eslint/parser package is a parser that allows ESLint to understand TypeScript syntax.
+
+"plugins": ["@typescript-eslint"]: This option specifies the ESLint plugins to be used. 
+In this case, the @typescript-eslint plugin is included. 
+This plugin provides additional rules and features specifically for TypeScript.
+
+"extends": [...]: This option allows extending the ESLint configuration by including additional rule sets. I
+n the provided example, the configuration extends the following rule sets:
+
+"eslint:recommended": This rule set includes a set of recommended rules from ESLint itself.
+"plugin:@typescript-eslint/eslint-recommended": This rule set includes additional recommended rules specifically for TypeScript linting from the @typescript-eslint plugin.
+"plugin:@typescript-eslint/recommended": This rule set includes a set of rules considered best practices for TypeScript linting from the @typescript-eslint plugin.
+"// "plugin:@shopify/esnext": This line is commented out and does not affect the configuration. It appears to be a reference to a plugin specific to the Shopify platform but is currently disabled.
+"rules": { "no-console": "error" }: This option allows configuring specific ESLint rules and their severity levels. In this case, the rule "no-console" is set to "error", which means that ESLint will raise an error if the code contains any console statements.
+
+*/

@@ -1,0 +1,44 @@
+[31merror[39m: [31m[ERROR] message: ahswrhioawerhaewr[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email, password must be longer than or equal to 6 characters,password should not be empty[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'constructor')[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 600- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: email must be an email[39m
+[31merror[39m: [31m[ERROR] message: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZjZhMjhkNWYyZmRkOGRmYWFiOWFhMiIsImlhdCI6MTcxMDY2MjI4NSwiZXhwIjoxNzEwNjYyMzQ1fQ.8r8IQerK7UtijVUM55GvvdQ016VWJRuId1dUUgD8Gxg[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getDate')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getDate')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getDate')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] - Status: 500- Msg: Cannot read properties of undefined (reading 'getTime')[39m
+[31merror[39m: [31m[ERROR] message: ahswrhioawerhaewr[39m
+[31merror[39m: [31m[ERROR] message: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6eyJfaWQiOiI2NWY2Yjc2Njk0ZjZmYjUwMDliZWJiZmQiLCJmaXJzdF9uYW1lIjoiUXVhbiIsImxhc3RfbmFtZSI6Ik5ndXllbiIsImVtYWlsIjoicXVhbjEyM0BnbWFpbC5jb20iLCJwYXNzd29yZCI6IiQyYSQxMCRqbHVJV0xlaVVLajlkOTQ5d3cyRmcuNkRrM3gyQnB0b0E5T3AzYWdMRnpnUW0xM1hVQkdkcSIsImF2YXRhciI6Ii8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvZjZlZmQ2ZDE5ZTkyNDM4MjU3ZWY4NTY2M2FjNjQ3MTc_c2l6ZT0yMDAmcmF0aW5nPWcmZGVmYXVsdD1tbSIsImRhdGUiOiIyMDI0LTAzLTE3VDA5OjI3OjAyLjA5OVoiLCJfX3YiOjB9LCJpYXQiOjE3MTA2Njc2MzUsImV4cCI6MTcxMDY2NzY5NX0.cjY-UwTAUsWmTqRFF3f9ydmMAj4I3QA3xQIYIN1hvw8[39m
+[31merror[39m: [31m[ERROR] message: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6eyJfaWQiOiI2NWY2Yjc2Njk0ZjZmYjUwMDliZWJiZmQiLCJmaXJzdF9uYW1lIjoiUXVhbiIsImxhc3RfbmFtZSI6Ik5ndXllbiIsImVtYWlsIjoicXVhbjEyM0BnbWFpbC5jb20iLCJwYXNzd29yZCI6IiQyYSQxMCRqbHVJV0xlaVVLajlkOTQ5d3cyRmcuNkRrM3gyQnB0b0E5T3AzYWdMRnpnUW0xM1hVQkdkcSIsImF2YXRhciI6Ii8vd3d3LmdyYXZhdGFyLmNvbS9hdmF0YXIvZjZlZmQ2ZDE5ZTkyNDM4MjU3ZWY4NTY2M2FjNjQ3MTc_c2l6ZT0yMDAmcmF0aW5nPWcmZGVmYXVsdD1tbSIsImRhdGUiOiIyMDI0LTAzLTE3VDA5OjI3OjAyLjA5OVoiLCJfX3YiOjB9LCJpYXQiOjE3MTA2Njc2MzUsImV4cCI6MTcxMDY2NzY5NX0.cjY-UwTAUsWmTqRFF3f9ydmMAj4I3QA3xQIYIN1hvw8[39m
+[31merror[39m: [31m[ERROR] message: jwt expired[39m
+[31merror[39m: [31m[ERROR] message: jwt expired[39m
+[31merror[39m: [31m[ERROR] message: jwt expired[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] message: jwt expired[39m
+[31merror[39m: [31m[ERROR] message: jwt expired[39m
+[31merror[39m: [31m[ERROR] - Status: 400- Msg: Invalid refresh token[39m
+[31merror[39m: [31m[ERROR] message: jwt expired[39m
